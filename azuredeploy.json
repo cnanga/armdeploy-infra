@@ -57,7 +57,7 @@
             ],
             "kind": "app,linux",
             "properties": {
-                "enabled": false,
+                "enabled": true,
                 "hostNameSslStates": [
                     {
                         "name": "[concat(parameters('sites_chaks_space_game_dev_name'), '.azurewebsites.net')]",
